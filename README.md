@@ -2,3 +2,4 @@
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/445.png">
 
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/6.png"> Como já deve imaginar, gosto muito de jogos online, principalmente Pokemon kkk, mas não gosto muito da parte de programação dos mesmos.
